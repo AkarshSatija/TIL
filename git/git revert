@@ -1,0 +1,1 @@
+use git revert <commit> to create a new commit that removes these changes. In a way, git revert is the converse of git cherry-pick -- the latter applies the patch to a branch that's missing it, the former removes it from a branch that has it.
