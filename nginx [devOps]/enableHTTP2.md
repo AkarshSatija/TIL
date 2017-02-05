@@ -17,6 +17,10 @@ and reload your config:
 `$ service nginx reload`
 
 
+Tools to test: 
+----
+https://blog.cloudflare.com/tools-for-debugging-testing-and-using-http-2/
+
 
 Ref:
 ------
