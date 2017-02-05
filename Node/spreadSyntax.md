@@ -21,6 +21,9 @@ console.log(...arr,...arr);
 // 1 2 3 1 2 3
 ```
 
+Example:
+
+[spreadSyntax.js](_resources/spreadSyntax.js)
 
 Ref:
 -----
