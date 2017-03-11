@@ -9,7 +9,7 @@ Things I learnt (today), Or started learning
 * [jQuery] (#jquery)
 * [js] (#js)
 * [linux [devOps]] (#linux)
-* [MEAN] (#MEAN)
+* [MEAN] (#mean)
 * [mongo] (#mongo)
 * [networking [devOps]] (#networking)
 * [nginx [devOps]] (#nginx)
