@@ -66,10 +66,10 @@ Things I learnt (today), Or started learning
 
 
 #node
-* [trace](node/console.trace.md)
-* [target](node/new.target.md)
-* [Req_res_Headers](node/Req_res_Headers.md)
-* [spreadSyntax](node/spreadSyntax.md)
+* [trace](Node/console.trace.md)
+* [target](Node/new.target.md)
+* [Req_res_Headers](Node/Req_res_Headers.md)
+* [spreadSyntax](Node/spreadSyntax.md)
 
 #php
 * [php_server_without_apache_or_nginx](php/php_server_without_apache_or_nginx.md)
