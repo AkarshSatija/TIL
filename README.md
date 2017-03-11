@@ -4,17 +4,17 @@ Things I learnt (today), Or started learning
 ---
 # Categories
 
-* [#aws [devOps]] (#aws)
-* [#docker [devOps]] (#docker)
-* [#jQuery] (#jquery)
-* [#js] (#js)
-* [#linux [devOps]] (#linux)
-* [#MEAN] (#MEAN)
-* [#mongo] (#mongo)
-* [#networking [devOps]] (#networking)
-* [#nginx [devOps]] (#nginx)
-* [#node] (#node)
-* [#php] (#php)
+* [aws [devOps]] (#aws)
+* [docker [devOps]] (#docker)
+* [jQuery] (#jquery)
+* [js] (#js)
+* [linux [devOps]] (#linux)
+* [MEAN] (#MEAN)
+* [mongo] (#mongo)
+* [networking [devOps]] (#networking)
+* [nginx [devOps]] (#nginx)
+* [node] (#node)
+* [php] (#php)
 
 
 
