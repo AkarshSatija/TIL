@@ -21,3 +21,7 @@ and you don’t expect 0.33 + 0.33 + 0.33 to add up to 1, either - do you?
 
 That's why, Computers use binary numbers because they’re faster at dealing with those, and because for most calculations, 
 a tiny error in the 17th decimal place doesn’t matter at all since the numbers you work with aren’t round (or that precise) anyway.
+
+
+
+Ref: http://floating-point-gui.de/basic/
